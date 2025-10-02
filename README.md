@@ -1,3 +1,3 @@
-Python projects
+Everything about Python will be uodated here.
 
 Stay tuned for more...
