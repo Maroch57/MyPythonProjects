@@ -1,3 +1,3 @@
-Everything about Python will be uodated here.
+Everything about Python will be updated here.
 
 Stay tuned for more...
